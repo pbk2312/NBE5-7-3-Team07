@@ -51,8 +51,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80" alt="Java"/><br/>
-      <sub><b>Java 21</b></sub>
+    <img src="https://github.com/user-attachments/assets/f35f475b-24d1-45b2-86ad-33cfa0ba0559" width="318" height="159" alt="New Image"/><br/>
+      <sub><b>Kotlin</b></sub>
     </td>
   </tr>
 </table>
